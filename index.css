@@ -1,0 +1,20 @@
+img{
+  max-width:100%;
+  height:auto;
+  margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+  display: block;
+}
+#title{
+  background-color:gray;
+  text-align:center;
+  padding:5px;
+}
+#tribute-info{
+  background-color:gray;
+}
+#img-caption{
+  text-align:center;
+}
